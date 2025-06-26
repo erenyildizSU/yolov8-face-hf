@@ -53,14 +53,6 @@ Then open `http://localhost:7860` in your browser.
 
 ---
 
-## Sample Output
-
-| Input | Output |
-|-------|--------|
-| ![](assets/input.jpg) | ![](assets/output.jpg) |
-
----
-
 ## Author
 
 Developed by [Eren Yıldız](https://huggingface.co/eren-yildiz)  
