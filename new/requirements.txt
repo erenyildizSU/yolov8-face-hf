@@ -1,6 +1,0 @@
-ultralytics
-gradio
-opencv-python
-Pillow
-pyyaml
-pandas
